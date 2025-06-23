@@ -37,7 +37,7 @@ if file:
 else:
     col1.write("Yuklangan Rasm :camera:")
     with col1:
-        st.image("rasm.jpg")
+        st.image("rasm.png")
     col2.write("Natijalar 🧬 🧠")
     with col2:
         st.success(f"Bashorat Qiymati")
